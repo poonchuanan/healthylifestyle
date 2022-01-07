@@ -23,7 +23,7 @@ TOKEN = os.getenv('TOKEN')
 
 
 def start(update, context):
-    update.message.reply_text('Hi')
+    update.message.reply_text('Hii')
 
 
 def main():
